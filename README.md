@@ -13,5 +13,5 @@ Features:
 # Live Demo:
 
 ## Explore Book Nest at:
-* PH-Assingment-08-Book-Nest.surge.sh (Please note that the provided Surge.sh link might not be permanent)
+* [PH-Assingment-08-Book-Nest.surge.sh](https://ph-assingment-08-book-nest.surge.sh/)
 * https://ph-assingment-08-book-nest.netlify.app/
